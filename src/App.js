@@ -2,7 +2,7 @@ import React from 'react';
 import Navigation from './Components/Navigation/Navigation';
 import Container from './Components/Container/Container';
 import Footer from './Components/Footer/Footer';
-import { Router, Route } from 'react-router-dom';
+import { Route } from 'react-router-dom';
 import ServicesPage from './Components/Services/services';
 import TheBasicsPage from './Components/TheBasics/thebasics';
 import AboutPage from './Components/About/about';
